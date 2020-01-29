@@ -7,3 +7,8 @@ Java 계열의 샘플 코드
   * Git
   * SSH
   * Spring Boot
+
+## 샘플링
+* 스펙 정리
+  * Java 1.8.x
+  * 
